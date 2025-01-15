@@ -1,0 +1,20 @@
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\bin\Debug\net9.0-windows\Yapılacaklar Listesi.exe
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\bin\Debug\net9.0-windows\Yapılacaklar Listesi.deps.json
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\bin\Debug\net9.0-windows\Yapılacaklar Listesi.runtimeconfig.json
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\bin\Debug\net9.0-windows\Yapılacaklar Listesi.dll
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\bin\Debug\net9.0-windows\Yapılacaklar Listesi.pdb
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi_MarkupCompile.cache
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi_MarkupCompile.lref
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.g.resources
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.AssemblyInfoInputs.cache
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.AssemblyInfo.cs
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.csproj.CoreCompileInputs.cache
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.dll
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\refint\Yapılacaklar Listesi.dll
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.pdb
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\Yapılacaklar Listesi.genruntimeconfig.cache
+C:\Users\reybe\source\repos\Yapılacaklar Listesi\Yapılacaklar Listesi\obj\Debug\net9.0-windows\ref\Yapılacaklar Listesi.dll
